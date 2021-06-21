@@ -2,4 +2,4 @@
 - description
 
 ## Assignment
-1. prey-predator model - saddled
+1. prey-predator model - saddle
